@@ -103,6 +103,6 @@
 
 ---
 
-JavaScript Simple Quiz on Array Methods
+# JavaScript Simple Quiz on Array Methods
 
 ![alt text](javascript-array-methods-quiz.png)
